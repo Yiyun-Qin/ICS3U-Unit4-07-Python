@@ -13,7 +13,7 @@ def main():
         if (initial_counter + 1) % 5 == 0:
             print("{}".format(initial_counter))
         else:
-            print(initial_counter, end = " ")
+            print(initial_counter, end=" ")
     print("\n\nDone.")
 
 
