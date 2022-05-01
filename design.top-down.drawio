@@ -16,8 +16,8 @@
                 <mxCell id="5" value="Output" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="160" y="260" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="16" value="Print numbers from 1000 - 2000, if the number + 1 % 5 == 0, goes to the next line" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-                    <mxGeometry x="160" y="390" width="120" height="60" as="geometry"/>
+                <mxCell id="16" value="Print numbers from 1000 - 2000, if the (number + 1) % 5 == 0, goes to the next line" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="135" y="390" width="170" height="80" as="geometry"/>
                 </mxCell>
             </root>
         </mxGraphModel>

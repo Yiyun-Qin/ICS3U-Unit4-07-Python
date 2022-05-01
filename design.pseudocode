@@ -1,7 +1,7 @@
 FOR (int initial_counter = 1000; initial_counter <= 2000; initial_counter++)
     IF (initial_counter + 1) % 5 == 0 THEN
-        SHOW "initial_counter\n"
+        SHOW "initial_counter"
     ELSE
-        SHOW "initial_counter, end = """
+        SHOW "initial_counter, end = " ""
     ENDIF
 END
